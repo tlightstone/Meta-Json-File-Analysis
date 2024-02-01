@@ -8,3 +8,5 @@ Search the phrase "INSERT PERSONAL DATA HERE" and there will be instructions on 
 
 All print statements are commented out, 
 please uncomment the sections that you want to use. 
+
+The Infographic is an example of how the data can be used in presentation. It is made manually and not using code. 
